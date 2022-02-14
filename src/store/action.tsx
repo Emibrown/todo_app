@@ -1,0 +1,5 @@
+export const RESTORE_APP = 'RESTORE_APP'
+export const ADD_TODO = 'ADD_TODO'
+export const REMOVE_FROM_TODO = 'REMOVE_FROM_TODO'
+export const LOADING_STATUS = 'LOADING_STATUS'
+export const UPDATE_TODO = 'UPDATE_TODO'
